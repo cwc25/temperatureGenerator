@@ -1,0 +1,25 @@
+﻿{
+  "vehicleId": "220",
+  "currentDate": "1/29/2018",
+  "report": {
+    "totalMiles": 123.65,
+    "averageSpeed": 80.53
+  },
+  "parkingSlots": [
+    {
+      "x": "115.99465",
+      "y": "39.69923"
+    },
+    {
+      "x": "115.90198",
+      "y": "39.60805"
+    }
+  ]
+}
+
+/*
+  vehicle id:string
+  current date:date
+  report: {total miles:double, ave speed:double}
+  parking spots: array
+*/
